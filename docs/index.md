@@ -1,7 +1,11 @@
 # Creación y procesamiento de audio en entorno gráfico
 
-**Máster en Composición Electroacústica** · Centro Superior de Enseñanza Musical Katarina Gurska · Curso 2026-27
-Profesor: Anxe Faraldo · [anxefaraldo@gmail.com](mailto:anxefaraldo@gmail.com) · [lamembrana.com/anxefaraldo](https://lamembrana.com/anxefaraldo) · [Sobre mí](sobre-mi.md)
+<div class="cabecera" markdown>
+<p class="cab-master">Máster en Composición Electroacústica</p>
+<p class="cab-centro">Centro Superior de Enseñanza Musical Katarina Gurska · Curso 2026-27</p>
+<p class="cab-profe">Anxe Faraldo</p>
+<p class="cab-contacto" markdown="span">[anxefaraldo@gmail.com](mailto:anxefaraldo@gmail.com) · [lamembrana.com/anxefaraldo](https://lamembrana.com/anxefaraldo) · [Sobre mí](sobre-mi.md)</p>
+</div>
 
 ## Descripción
 

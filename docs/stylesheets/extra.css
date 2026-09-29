@@ -1,1 +1,31 @@
 .md-typeset img { display: block; max-width: min(100%, 640px); height: auto; margin: 1em auto 0.3em; }
+
+/* Cabecera de la página principal */
+.md-typeset .cabecera {
+  margin: 0.4em 0 2.2em;
+  padding: 0.9em 0 0.9em 1.1em;
+  border-left: 3px solid var(--md-primary-fg-color);
+}
+.md-typeset .cabecera p { margin: 0; line-height: 1.5; }
+.md-typeset .cab-master {
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--md-primary-fg-color);
+}
+.md-typeset .cab-centro {
+  font-size: 0.72rem;
+  color: var(--md-default-fg-color--light);
+}
+.md-typeset .cab-profe {
+  margin-top: 0.8em !important;
+  font-size: 1.05rem;
+  font-weight: 500;
+}
+.md-typeset .cab-contacto {
+  font-size: 0.72rem;
+  color: var(--md-default-fg-color--light);
+}
+.md-typeset .cab-contacto a { color: inherit; border-bottom: 1px solid var(--md-default-fg-color--lighter); }
+.md-typeset .cab-contacto a:hover { color: var(--md-accent-fg-color); }
