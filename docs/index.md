@@ -37,10 +37,23 @@ Pure Data es un dialecto de la familia de Max (ambos modelos los desarrolló la 
 
 ## Metodología
 
-- Explicación de los conceptos correspondientes a los contenidos, tanto desde una perspectiva teórica como práctica.
-- Implementación y experimentación en clase, por parte de cada alumna, de los conceptos incluidos en los contenidos.
-- Exposición y corrección de los trabajos y ejercicios presentados por las alumnas.
-- Relación de los presupuestos estéticos con las técnicas necesarias para su consecución.
+Todas las sesiones siguen la misma secuencia, para que sepas en cada momento en qué punto del día estás. Los ocho bloques giran en torno al tema de la sesión y alternan la explicación, la práctica y la escucha, de modo que ninguno se alarga más de una hora y cuarto.
+
+**Mañana**
+
+1. **Retorno.** Dos o tres personas, elegidas al azar, defienden su encargo: lo tocan, explican una decisión señalándola en el patch y hacen en directo una modificación que les pide el profesor. Después, el resto del grupo pregunta.
+2. **Reconstrucción.** Sin apuntes, rehacemos el núcleo de la sesión anterior. Cuenta hacerla, no acertar: recuperar de memoria lo que vimos hace semanas es la forma más eficaz de que siga ahí.
+3. **Bloque técnico.** Construimos un patch entre todos, en pantalla. Antes de ejecutar cada paso, la pregunta es siempre la misma: *¿qué va a pasar?*
+4. **Taller de predicción.** Por parejas: escribes qué hará un patch antes de ejecutarlo, lo ejecutas y discutís la diferencia.
+
+**Tarde**
+
+5. **Escucha.** Una obra que plantea el problema técnico de la tarde. Se escucha dos veces: la primera sin consigna, la segunda con una pregunta concreta. La conversación posterior formula el problema que resolveremos a continuación.
+6. **Bloque técnico.** La técnica que responde a ese problema, de nuevo construida entre todos.
+7. **Taller de composición.** Cada alumna compone una miniatura con lo trabajado ese día.
+8. **Cierre.** Escuchamos algunas miniaturas y se presenta el encargo para la sesión siguiente.
+
+Los días con prueba de nivel (28 de noviembre y 30 de enero), la prueba ocupa el lugar del Retorno y la Reconstrucción.
 
 ## Evaluación
 
