@@ -1,7 +1,7 @@
 # Creación y procesamiento de audio en entorno gráfico
 
 **Máster en Composición Electroacústica** · Centro Superior de Enseñanza Musical Katarina Gurska · Curso 2026-27
-Profesor: Anxe Faraldo · [anxefaraldo@gmail.com](mailto:anxefaraldo@gmail.com)
+Profesor: Anxe Faraldo · [anxefaraldo@gmail.com](mailto:anxefaraldo@gmail.com) · [anxefaraldo.lamembrana.com](http://anxefaraldo.lamembrana.com) · [Sobre mí](sobre-mi.md)
 
 ## Descripción
 
@@ -23,7 +23,24 @@ La asignatura se organiza en ocho sesiones intensivas de 7 horas en sábados alt
 
 ## Entorno de trabajo
 
+El entorno de programación de la asignatura es Pure Data (Pd), un lenguaje de código abierto y gratuito.
+
+- Pd funciona en los tres sistemas operativos mayoritarios (Mac, Windows, Linux), en smartphones (iOS, Android) y en la web.
+- Pd se puede insertar como motor de audio en otros lenguajes de programación (Python, C++, Unity, Processing, etc.).
+- Pd, vía plugdata, puede funcionar dentro de cualquier DAW como plugin de audio o MIDI en la mayoría de formatos (VST3, AU, LV2, CLAP).
+- Pd es un lenguaje pequeño (pocos objetos), y por eso resulta idóneo en contextos de aprendizaje.
+- Pd consume muy pocos recursos, así que puede correr en ordenadores poco potentes (smartphones, Raspberry Pi). Esto lo hace especialmente idóneo para creaciones colaborativas o instalaciones sonoras.
+
 Trabajaremos con [plugdata](https://plugdata.org/) (última versión estable), una distribución de Pure Data que funciona como aplicación independiente y como plugin dentro de cualquier DAW. Usaremos el vocabulario que plugdata incluye de serie: Pd vanilla y las librerías ELSE y cyclone. Muchos objetos de ELSE resuelven en una sola caja lo que en vanilla requiere varios; en clase construiremos primero la versión desplegada, para saber qué hay dentro de la caja, y a partir de ahí usaremos la caja.
+
+Pure Data es un dialecto de la familia de Max (ambos modelos los desarrolló la misma persona). A lo largo del curso compararemos versiones de funcionalidad idéntica realizadas en Max, el entorno comercial, para completar la comprensión del paradigma de programación gráfica, de su potencial y de sus limitaciones.
+
+## Metodología
+
+- Explicación de los conceptos correspondientes a los contenidos, tanto desde una perspectiva teórica como práctica.
+- Implementación y experimentación en clase, por parte de cada alumna, de los conceptos incluidos en los contenidos.
+- Exposición y corrección de los trabajos y ejercicios presentados por las alumnas.
+- Relación de los presupuestos estéticos con las técnicas necesarias para su consecución.
 
 ## Evaluación
 
@@ -46,3 +63,7 @@ El uso de herramientas de IA no está prohibido en esta asignatura. Pero lo que 
 - defender tu propio trabajo en directo y modificarlo delante de la clase.
 
 Todo lo que entregues lo tendrás que explicar y modificar en clase. Si en tu patch hay un objeto o una conexión que no sabes explicar, todavía no es tuyo.
+
+## Guía docente oficial
+
+[Guía docente de la asignatura](https://drive.google.com/file/d/1R7qtpDbZWyfBRPjEno9qrvXuUIJ7k38a/view?usp=drive_link) (Google Drive).
