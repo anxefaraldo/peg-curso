@@ -29,10 +29,11 @@ markdown_extensions:
   - pymdownx.superfences
 nav:
   - Inicio: index.md
+  - Sobre mí: sobre-mi.md
+  - Recursos: recursos.md
   - Sesiones:
       - "S1 · Lógica de la programación gráfica": sesiones/s1.md
   - Encargos:
       - "E1 · Pieza de una voz": encargos/e1.md
-  - Sobre mí: sobre-mi.md
 extra_css:
   - stylesheets/extra.css

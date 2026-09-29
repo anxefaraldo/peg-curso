@@ -73,6 +73,8 @@ El uso de herramientas de IA no está prohibido en esta asignatura. Pero lo que 
 
 Todo lo que entregues lo tendrás que explicar y modificar en clase. Si en tu patch hay un objeto o una conexión que no sabes explicar, todavía no es tuyo.
 
+Tampoco es un tema tabú. En algún momento del curso generaremos patches con un modelo de lenguaje y los auditaremos juntos, para ver qué aportan y qué esconden. La IA puede ser una buena compañera de experimentación: probar variantes, abrir caminos que no se te habrían ocurrido. Pero la decisión estética es tuya. Lo que nos interesa es tu manera de pensar el sonido, no la respuesta más probable.
+
 ## Guía docente oficial
 
 [Guía docente de la asignatura](https://drive.google.com/file/d/1R7qtpDbZWyfBRPjEno9qrvXuUIJ7k38a/view?usp=drive_link) (Google Drive).
