@@ -1,7 +1,7 @@
 # Creación y procesamiento de audio en entorno gráfico
 
 **Máster en Composición Electroacústica** · Centro Superior de Enseñanza Musical Katarina Gurska · Curso 2026-27
-Profesor: Anxe Faraldo · [anxefaraldo@gmail.com](mailto:anxefaraldo@gmail.com) · [anxefaraldo.lamembrana.com](http://anxefaraldo.lamembrana.com) · [Sobre mí](sobre-mi.md)
+Profesor: Anxe Faraldo · [anxefaraldo@gmail.com](mailto:anxefaraldo@gmail.com) · [lamembrana.com/anxefaraldo](https://lamembrana.com/anxefaraldo) · [Sobre mí](sobre-mi.md)
 
 ## Descripción
 
@@ -37,23 +37,15 @@ Pure Data es un dialecto de la familia de Max (ambos modelos los desarrolló la 
 
 ## Metodología
 
-Todas las sesiones siguen la misma secuencia, para que sepas en cada momento en qué punto del día estás. Los ocho bloques giran en torno al tema de la sesión y alternan la explicación, la práctica y la escucha, de modo que ninguno se alarga más de una hora y cuarto.
+Las sesiones son largas y espaciadas, así que cada una alterna distintos tipos de trabajo en lugar de concentrarse en la explicación:
 
-**Mañana**
+- **Defensa de encargos.** Algunas personas presentan y defienden el trabajo hecho entre sesiones.
+- **Recuperación de lo anterior.** Volvemos sobre la sesión previa antes de construir encima.
+- **Construcción colectiva.** Los patches se construyen entre todos, en pantalla, y antes de ejecutar algo intentamos predecir qué va a pasar.
+- **Escucha comentada.** Obras que plantean los problemas técnicos y estéticos de la sesión.
+- **Taller.** Cada alumna implementa, experimenta y compone con lo trabajado ese día.
 
-1. **Retorno.** Dos o tres personas, elegidas al azar, defienden su encargo: lo tocan, explican una decisión señalándola en el patch y hacen en directo una modificación que les pide el profesor. Después, el resto del grupo pregunta.
-2. **Reconstrucción.** Sin apuntes, rehacemos el núcleo de la sesión anterior. Cuenta hacerla, no acertar: recuperar de memoria lo que vimos hace semanas es la forma más eficaz de que siga ahí.
-3. **Bloque técnico.** Construimos un patch entre todos, en pantalla. Antes de ejecutar cada paso, la pregunta es siempre la misma: *¿qué va a pasar?*
-4. **Taller de predicción.** Por parejas: escribes qué hará un patch antes de ejecutarlo, lo ejecutas y discutís la diferencia.
-
-**Tarde**
-
-5. **Escucha.** Una obra que plantea el problema técnico de la tarde. Se escucha dos veces: la primera sin consigna, la segunda con una pregunta concreta. La conversación posterior formula el problema que resolveremos a continuación.
-6. **Bloque técnico.** La técnica que responde a ese problema, de nuevo construida entre todos.
-7. **Taller de composición.** Cada alumna compone una miniatura con lo trabajado ese día.
-8. **Cierre.** Escuchamos algunas miniaturas y se presenta el encargo para la sesión siguiente.
-
-Los días con prueba de nivel (28 de noviembre y 30 de enero), la prueba ocupa el lugar del Retorno y la Reconstrucción.
+El orden y el peso de cada actividad irán ajustándose a lo largo del curso.
 
 ## Evaluación
 

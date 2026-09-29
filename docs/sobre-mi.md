@@ -18,7 +18,7 @@ Durante años, he impartido numerosos talleres de música electrónica, programa
 
 Actualmente soy profesor en el Máster en Composición Electroacústica de la Escuela Katarina Gurska (Madrid).
 
-He sido director artístico de la Fundación Phonos entre 2018 y 2023, lugar en el que desarrollé una intensa labor de comisariado de música electrónica, así como numerosas supervisiones de artistas y compositores en residencia.
+He sido director artístico de la Fundación Phonos entre 2018 y 2022, lugar en el que desarrollé una intensa labor de comisariado de música electrónica, así como numerosas supervisiones de artistas y compositores en residencia.
 
 ## Formación académica
 
@@ -28,6 +28,6 @@ He sido director artístico de la Fundación Phonos entre 2018 y 2023, lugar en 
 
 ## Enlaces
 
-- Web: [anxefaraldo.lamembrana.com](http://anxefaraldo.lamembrana.com)
+- Web: [lamembrana.com/anxefaraldo](https://lamembrana.com/anxefaraldo)
 - GitHub: [github.com/anxefaraldo](https://github.com/anxefaraldo)
 - Instagram: [@anxe.faraldo](https://instagram.com/anxe.faraldo) · [@usefulpdpatches](https://instagram.com/usefulpdpatches)
