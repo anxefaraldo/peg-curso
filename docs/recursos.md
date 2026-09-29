@@ -1,6 +1,6 @@
 # Recursos
 
-Referencias para todo el curso. Las lecturas y materiales específicos de cada tema están enlazados en su sesión.
+Referencias para todo el curso. Las lecturas y materiales específicos de cada tema se enlazarán en su sesión.
 
 ## Sitios de referencia
 
