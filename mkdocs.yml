@@ -1,0 +1,34 @@
+site_name: Creación y procesamiento de audio en entorno gráfico
+site_description: Máster en Composición Electroacústica · Centro Superior Katarina Gurska · Curso 2026-27
+site_author: Anxe Faraldo
+copyright: Anxe Faraldo · Máster en Composición Electroacústica · Katarina Gurska
+theme:
+  name: material
+  language: es
+  features:
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+    - search.highlight
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: red
+      toggle: {icon: material/weather-night, name: Modo oscuro}
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: red
+      toggle: {icon: material/weather-sunny, name: Modo claro}
+markdown_extensions:
+  - admonition
+  - attr_list
+  - tables
+  - toc: {permalink: true}
+  - pymdownx.details
+  - pymdownx.superfences
+nav:
+  - Inicio: index.md
+  - Sesiones:
+      - "S1 · Lógica de la programación gráfica": sesiones/s1.md
+  - Encargos:
+      - "E1 · Pieza de una voz": encargos/e1.md

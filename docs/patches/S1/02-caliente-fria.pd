@@ -1,0 +1,9 @@
+#N canvas 100 100 520 360 12;
+#X text 20 15 02 - Haz clic en este orden: [10( \, [5( \, [10( \, [5( \, [10(. ¿Qué imprime la consola después de cada clic?;
+#X msg 40 80 10;
+#X msg 120 80 5;
+#X obj 40 140 + 0;
+#X obj 40 190 print;
+#X connect 1 0 3 0;
+#X connect 2 0 3 1;
+#X connect 3 0 4 0;
