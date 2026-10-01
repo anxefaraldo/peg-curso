@@ -1,7 +1,7 @@
 site_name: Creación y procesamiento de audio en entorno gráfico
 site_description: Máster en Composición Electroacústica · Centro Superior Katarina Gurska · Curso 2026-27
 site_author: Anxe Faraldo
-copyright: "Máster en Composición Electroacústica – Centro Superior de Enseñanza Musical Katarina Gurska"
+copyright: "Anxe Faraldo · Máster en Composición Electroacústica – Centro Superior de Enseñanza Musical Katarina Gurska"
 theme:
   name: material
   language: es
