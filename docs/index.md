@@ -37,7 +37,7 @@ El entorno de programación de la asignatura es Pure Data (Pd), un lenguaje de c
 
 Trabajaremos con [plugdata](https://plugdata.org/) (última versión estable), una distribución de Pure Data que funciona como aplicación independiente y como plugin dentro de cualquier DAW. Usaremos el vocabulario que plugdata incluye de serie: Pd vanilla y las librerías ELSE y cyclone. Muchos objetos de ELSE resuelven en una sola caja lo que en vanilla requiere varios; en clase construiremos primero la versión desplegada, para saber qué hay dentro de la caja, y a partir de ahí usaremos la caja.
 
-Pd lo creó Miller Puckette, el mismo autor del modelo original de Max, y desde 1996 lo mantiene como software libre. No es una alternativa menor: es un lenguaje vivo, con una comunidad internacional activa y una documentación excepcional. La ayuda de Pd incluye los ejemplos que acompañan el libro de Puckette, [*The Theory and Technique of Electronic Music*](https://msp.ucsd.edu/techniques.htm), y los usaremos a lo largo del curso. Y es libre: lo que construyas aquí puedes leerlo, modificarlo, compartirlo y ejecutarlo en cualquier máquina, sin licencias.
+Pd y Max pertenecen a la misma familia de lenguajes; ambos parten del trabajo de Miller Puckette. En ocasiones abriremos Max para mostrar diferencias o hacer comparaciones.
 
 ## Metodología
 
