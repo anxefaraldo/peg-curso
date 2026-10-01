@@ -37,7 +37,7 @@ El entorno de programación de la asignatura es Pure Data (Pd), un lenguaje de c
 
 Trabajaremos con [plugdata](https://plugdata.org/) (última versión estable), una distribución de Pure Data que funciona como aplicación independiente y como plugin dentro de cualquier DAW. Usaremos el vocabulario que plugdata incluye de serie: Pd vanilla y las librerías ELSE y cyclone. Muchos objetos de ELSE resuelven en una sola caja lo que en vanilla requiere varios; en clase construiremos primero la versión desplegada, para saber qué hay dentro de la caja, y a partir de ahí usaremos la caja.
 
-Pure Data es un dialecto de la familia de Max (ambos modelos los desarrolló la misma persona). A lo largo del curso compararemos versiones de funcionalidad idéntica realizadas en Max, el entorno comercial, para completar la comprensión del paradigma de programación gráfica, de su potencial y de sus limitaciones.
+Pd lo creó Miller Puckette, el mismo autor del modelo original de Max, y desde 1996 lo mantiene como software libre. No es una alternativa menor: es un lenguaje vivo, con una comunidad internacional activa y una documentación excepcional. La ayuda de Pd incluye los ejemplos que acompañan el libro de Puckette, [*The Theory and Technique of Electronic Music*](https://msp.ucsd.edu/techniques.htm), y los usaremos a lo largo del curso. Y es libre: lo que construyas aquí puedes leerlo, modificarlo, compartirlo y ejecutarlo en cualquier máquina, sin licencias.
 
 ## Metodología
 
@@ -73,7 +73,7 @@ El uso de herramientas de IA no está prohibido en esta asignatura. Pero lo que 
 
 Todo lo que entregues lo tendrás que explicar y modificar en clase. Si en tu patch hay un objeto o una conexión que no sabes explicar, todavía no es tuyo.
 
-Tampoco es un tema tabú. En algún momento del curso generaremos patches con un modelo de lenguaje y los auditaremos juntos, para ver qué aportan y qué esconden. La IA puede ser una buena compañera de experimentación: probar variantes, abrir caminos que no se te habrían ocurrido. Pero la decisión estética es tuya. Lo que nos interesa es tu manera de pensar el sonido, no la respuesta más probable.
+Tampoco es un tema tabú. La IA puede ser una buena compañera de experimentación: probar variantes, abrir caminos que no se te habrían ocurrido. Pero la decisión estética es tuya. Lo que nos interesa es tu manera de pensar el sonido, no la respuesta más probable. Qué aportan estas herramientas, qué esconden y cómo se toca con ellas lo trabajaremos a fondo en Música Electrónica en Vivo.
 
 ## Guía docente oficial
 
