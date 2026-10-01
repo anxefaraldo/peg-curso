@@ -1,7 +1,5 @@
 # Creación y procesamiento de audio en entorno gráfico
 
-<p class="cab-enlace">Enlace corto a esta web: <code>bit.ly/anxe-peg</code></p>
-
 <div class="cabecera" markdown>
 <p class="cab-master">Máster en Composición Electroacústica</p>
 <p class="cab-centro">Centro Superior de Enseñanza Musical Katarina Gurska · Curso 2026-27</p>

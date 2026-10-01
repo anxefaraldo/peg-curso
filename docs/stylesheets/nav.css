@@ -11,3 +11,17 @@
   .md-nav--primary > .md-nav__list > .md-nav__item--section > .md-nav__link { margin-bottom: .2em; }
   .md-nav--primary .md-nav[data-md-level="1"] .md-nav__link { font-size: .7rem; }
 }
+
+/* Enlace corto, arriba del todo en la columna izquierda */
+.enlace-corto {
+  display: block;
+  margin: .2rem .6rem .6rem;
+  font-family: var(--md-code-font-family);
+  font-size: .75rem;
+  font-weight: 700;
+  color: var(--md-primary-fg-color) !important;
+  user-select: all;
+}
+@media screen and (max-width: 76.1875em) {
+  .enlace-corto { margin: .6rem .8rem; }
+}

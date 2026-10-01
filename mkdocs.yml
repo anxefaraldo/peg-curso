@@ -41,3 +41,4 @@ extra_css:
   - stylesheets/nav.css
 extra_javascript:
   - javascripts/radio.js
+  - javascripts/enlace.js
