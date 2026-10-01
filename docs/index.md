@@ -5,6 +5,7 @@
 <p class="cab-centro">Centro Superior de Enseñanza Musical Katarina Gurska · Curso 2026-27</p>
 <p class="cab-profe">Anxe Faraldo</p>
 <p class="cab-contacto" markdown="span">[anxefaraldo@gmail.com](mailto:anxefaraldo@gmail.com) · [lamembrana.com/anxefaraldo](https://lamembrana.com/anxefaraldo) · [Sobre mí](sobre-mi.md)</p>
+<p class="cab-enlace">Enlace corto a esta web: <code>bit.ly/anxe-peg</code></p>
 </div>
 
 ## Descripción

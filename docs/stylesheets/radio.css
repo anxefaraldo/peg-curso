@@ -1,0 +1,49 @@
+.radio {
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-left: 4px solid var(--md-primary-fg-color);
+  border-radius: 6px;
+  padding: .8rem 1rem .4rem;
+  margin: 1.2rem 0;
+  background: var(--md-code-bg-color);
+}
+.radio-bar { display: flex; align-items: center; gap: .8rem; }
+.radio-bar button {
+  border: 0; border-radius: 50%; width: 2.4rem; height: 2.4rem; flex: none;
+  cursor: pointer; font-size: .9rem; line-height: 1;
+  background: var(--md-primary-fg-color); color: var(--md-primary-bg-color);
+}
+.radio-bar button.radio-next { width: 2rem; height: 2rem; font-size: .75rem; opacity: .85; }
+.radio-now { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: .15rem; }
+.radio-title { font-size: .75rem; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.radio-seek { width: 100%; accent-color: var(--md-primary-fg-color); }
+.radio-time { font-size: .65rem; opacity: .7; font-variant-numeric: tabular-nums; }
+.radio ol { margin: .6rem 0 .2rem; }
+.radio li[data-src] { cursor: pointer; padding: .15rem .3rem; border-radius: 4px; font-size: .75rem; }
+.radio li[data-src]:hover, .radio li[data-src]:focus { background: var(--md-default-fg-color--lightest); outline: none; }
+.radio li.actual { font-weight: 700; color: var(--md-primary-fg-color); }
+.radio li.falta { opacity: .45; text-decoration: line-through; cursor: default; }
+.radio li.falta::after { content: "  · falta el audio"; font-size: .65rem; text-decoration: none; }
+.radio audio { display: none; }
+
+/* Versión en la columna derecha */
+.radio--lateral { margin: 0 .6rem 1rem; padding: .6rem .6rem .4rem; }
+.radio::before {
+  content: "Radio"; display: block; font-size: .64rem; font-weight: 700;
+  text-transform: uppercase; letter-spacing: .05em; opacity: .6; margin-bottom: .4rem;
+}
+.radio--lateral .radio-bar { gap: .5rem; flex-wrap: wrap; }
+.radio--lateral .radio-bar button { width: 2rem; height: 2rem; font-size: .75rem; }
+.radio--lateral .radio-bar button.radio-next { width: 1.7rem; height: 1.7rem; }
+.radio--lateral .radio-now { order: 3; flex-basis: 100%; }
+.radio--lateral .radio-title { white-space: normal; font-size: .64rem; }
+.radio--lateral ol { padding-left: 1rem; margin-left: 0; }
+.radio--lateral li[data-src] { font-size: .62rem; padding: .1rem .2rem; }
+.radio-aviso { font-size: .7rem; opacity: .7; font-style: italic; }
+.radio-pregunta {
+  font-size: .82rem; font-style: italic; line-height: 1.4;
+  margin: 0 0 .7rem; padding: 0 0 .6rem;
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+}
+.radio--lateral .radio-pregunta { font-size: .68rem; margin-bottom: .5rem; padding-bottom: .5rem; }
+.radio .radio-guia { color: var(--md-typeset-a-color); display: inline-block; font-size: .68rem; font-weight: 600; margin: .1rem 0 .3rem; }
+.radio p:has(> .radio-guia) { margin: .2rem 0 .3rem; }

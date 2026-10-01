@@ -29,3 +29,6 @@
 }
 .md-typeset .cab-contacto a { color: inherit; border-bottom: 1px solid var(--md-default-fg-color--lighter); }
 .md-typeset .cab-contacto a:hover { color: var(--md-accent-fg-color); }
+
+.cab-enlace { margin-top: .4rem; font-size: .8rem; }
+.cab-enlace code { font-size: .85rem; user-select: all; }

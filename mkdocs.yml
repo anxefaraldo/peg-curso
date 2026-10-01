@@ -1,7 +1,7 @@
 site_name: Creación y procesamiento de audio en entorno gráfico
 site_description: Máster en Composición Electroacústica · Centro Superior Katarina Gurska · Curso 2026-27
 site_author: Anxe Faraldo
-copyright: Anxe Faraldo · Máster en Composición Electroacústica · Katarina Gurska
+copyright: Anxe Faraldo · Máster en Composición Electroacústica · Katarina Gurska · bit.ly/anxe-peg
 theme:
   name: material
   language: es
@@ -29,6 +29,28 @@ markdown_extensions:
   - pymdownx.superfences
 nav:
   - Inicio: index.md
+  - Sesiones:
+      - "S1 · Lógica de la programación gráfica": sesiones/s1.md
+      - "S2 · Teoría musical, procesado simbólico y MIDI": sesiones/s2.md
+      - "S3 · Manipulación de sonido grabado": sesiones/s3.md
+      - "S4 · Delay, filtrado y efectos temporales": sesiones/s4.md
+      - "S5 · Distorsión y síntesis por modulación": sesiones/s5.md
+      - "S6 · Síntesis aditiva": sesiones/s6.md
+      - "S7 · Síntesis granular": sesiones/s7.md
+      - "S8 · Análisis espectral": sesiones/s8.md
+  - Encargos:
+      - "E1 · Pieza de una voz": encargos/e1.md
+      - "E2 · Secuenciador isorrítmico": encargos/e2.md
+      - "E3 · Sampler": encargos/e3.md
+      - "E4 · Delay": encargos/e4.md
+      - "E5 · Voz no lineal": encargos/e5.md
+      - "E6 · Instrumento aditivo": encargos/e6.md
+      - "E7 · Granulador": encargos/e7.md
   - Recursos: recursos.md
+  - Sonidos de trabajo: sonidos.md
 extra_css:
   - stylesheets/extra.css
+  - stylesheets/radio.css
+  - stylesheets/nav.css
+extra_javascript:
+  - javascripts/radio.js

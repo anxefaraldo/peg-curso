@@ -9,6 +9,7 @@ Referencias para todo el curso. Las lecturas y materiales específicos de cada t
 - Puedes encontrar todo tipo de patches en [Patchstorage](https://patchstorage.com/platform/pd-vanilla/).
 - La ayuda incluida (*Ayuda > Ayuda Pd*) contiene una introducción a Pd y a sus principios de programación. **Recomiendo especialmente leer su capítulo 2.**
 
+
 ## Bibliografía
 
 - Miller Puckette, [*The Theory and Technique of Electronic Music*](http://msp.ucsd.edu/techniques.htm). Libro fundamental sobre sonido digital. Aunque es matemáticamente exigente, todos sus ejemplos se corresponden con los ejemplos de programación incluidos en la ayuda de Pd (*Ayuda > Navegador > Pure Data > 3.audio.examples*). Es una buena manera de profundizar en técnicas de audio concretas.
