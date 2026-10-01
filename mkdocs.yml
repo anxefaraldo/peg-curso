@@ -28,7 +28,6 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
 nav:
-  - "bit.ly/anxe-peg": https://bit.ly/anxe-peg
   - Inicio: index.md
   - Sesiones:
       - "S1 · Lógica de la programación gráfica": sesiones/s1.md
@@ -42,3 +41,4 @@ extra_css:
   - stylesheets/nav.css
 extra_javascript:
   - javascripts/radio.js
+  - javascripts/enlace.js

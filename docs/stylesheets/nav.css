@@ -12,9 +12,17 @@
   .md-nav--primary .md-nav[data-md-level="1"] .md-nav__link { font-size: .7rem; }
 }
 
-/* Enlace corto: primer elemento del menú, en rojo y monoespaciado */
-.md-nav__link[href="https://bit.ly/anxe-peg"] {
-  font-family: var(--md-code-font-family) !important;
-  font-weight: 700 !important;
-  color: var(--md-primary-fg-color) !important;
+/* Enlace corto: texto en rojo arriba del todo en la columna izquierda, no clicable */
+.enlace-corto {
+  display: block;
+  margin: 0 .6rem .8rem;
+  font-family: var(--md-code-font-family);
+  font-size: .75rem;
+  font-weight: 700;
+  color: var(--md-primary-fg-color);
+  cursor: text;
+  user-select: all;
+}
+@media screen and (max-width: 76.1875em) {
+  .enlace-corto { margin: .6rem .8rem; }
 }
