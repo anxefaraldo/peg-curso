@@ -32,3 +32,8 @@
 
 .cab-enlace { margin-top: .4rem; font-size: .8rem; }
 .cab-enlace code { font-size: .85rem; user-select: all; }
+
+/* Capturas de patches: a todo el ancho del texto, y clic para verlas a tamaño real */
+.md-typeset img.patch { width: 100%; max-width: 100%; height: auto; cursor: zoom-in; border-radius: 4px; }
+/* Más ancho de lectura en pantallas grandes (los patches lo agradecen) */
+@media screen and (min-width: 100em) { .md-grid { max-width: 68rem; } }

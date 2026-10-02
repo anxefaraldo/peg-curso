@@ -24,3 +24,17 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   });
 });
+
+// Capturas de patches: clic para abrir la imagen a tamaño real en una pestaña nueva.
+document.addEventListener("DOMContentLoaded", function () {
+  document.querySelectorAll(".md-content img.patch").forEach(function (img) {
+    if (img.closest("a")) return;
+    var a = document.createElement("a");
+    a.href = img.getAttribute("src");
+    a.target = "_blank";
+    a.rel = "noopener";
+    a.title = "Ver a tamaño real";
+    img.parentNode.insertBefore(a, img);
+    a.appendChild(img);
+  });
+});
