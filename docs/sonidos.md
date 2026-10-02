@@ -6,12 +6,12 @@ Para tus encargos, usa sobre todo **tu propio material**: estos son para practic
 
 | Archivo | Para qué |
 |---|---|
-| [goldberg.wav](https://lamembrana.com/radio-katarina/sonidos/goldberg.wav) | Patches de delays (S4) |
-| [cello.wav](https://lamembrana.com/radio-katarina/sonidos/cello.wav) | Lectura de archivos (S3) |
+| [goldberg.wav](https://lamembrana.com/radio-katarina/sonidos/goldberg.wav) | Piano |
+| [cello.wav](https://lamembrana.com/radio-katarina/sonidos/cello.wav) | Cello |
 | [aeiou.wav](https://lamembrana.com/radio-katarina/sonidos/aeiou.wav) | Voz |
 | [aaa.wav](https://lamembrana.com/radio-katarina/sonidos/aaa.wav) | Voz |
 | [beckett.aif](https://lamembrana.com/radio-katarina/sonidos/beckett.aif) | Voz hablada |
-| [stockhausen.aif](https://lamembrana.com/radio-katarina/sonidos/stockhausen.aif) | Fragmento |
+| [studie_ii.aif](https://lamembrana.com/radio-katarina/sonidos/studie_ii.aif) | Fragmento |
 | [bigbell.wav](https://lamembrana.com/radio-katarina/sonidos/bigbell.wav) | Campana |
 | [drums.wav](https://lamembrana.com/radio-katarina/sonidos/drums.wav) | Batería |
 | [trombone.wav](https://lamembrana.com/radio-katarina/sonidos/trombone.wav) | Trombón |
