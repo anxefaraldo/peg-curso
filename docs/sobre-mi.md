@@ -8,22 +8,20 @@ A lo largo de los últimos 20 años, he trabajado con colectivos y artistas como
 
 ## Ingeniero de sonido
 
-Paralelamente, he venido desarrollando una carrera como ingeniero de sonido, realizando principalmente repertorio de música contemporánea y electrónica en vivo. En este terreno, he colaborado con numerosos compositores, solistas y ensembles, tales como Frédérique Cambreling, Jennifer Walshe, Naoko Yoshino, Ictus Ensemble, Placa Base Colectivo Instrumental, Ensemble Sillages, FRAMES Percussion, Barcelona Modern Ensemble o Vertixe Sonora.
+Paralelamente, desarrollo una carrera como ingeniero de sonido, realizando principalmente repertorio de música contemporánea y electrónica en vivo. En este terreno, he colaborado con numerosos compositores, solistas y ensembles, tales como Frédérique Cambreling, Jennifer Walshe, Naoko Yoshino, Ictus Ensemble, Placa Base Colectivo Instrumental, Ensemble Sillages, FRAMES Percussion, Barcelona Modern Ensemble o Vertixe Sonora.
 
-Junto a Haize Lizarazu, dirijo el laboratorio de creación musical *la membrana*, un espacio de creación musical e investigación sonora donde desarrollamos nuestros proyectos creativos, así como otros trabajos de producción musical, masterización y asesorías técnico-artísticas.
+Junto a Haize Lizarazu, hemos creado *la membrana*, un espacio de creación musical e investigación sonora donde desarrollamos nuestros proyectos creativos, así como otros trabajos de producción musical, masterización y asesorías técnico-artísticas.
 
 ## Labor docente y divulgativa
 
-Durante años, he impartido numerosos talleres de música electrónica, programación creativa, e improvisación. He sido también profesor asociado de la Universitat Pompeu Fabra, la ESMUC (Escuela Superior de Música de Catalunya), y el Taller de Músics.
-
-Actualmente soy profesor en el Máster en Composición Electroacústica de la Escuela Katarina Gurska (Madrid).
+Llevo años impartiendo talleres de música electrónica, programación creativa, e improvisación. He sido también profesor asociado de la Universitat Pompeu Fabra, la ESMUC (Escuela Superior de Música de Catalunya), y el Taller de Músics.
 
 He sido director artístico de la Fundación Phonos entre 2018 y 2022, lugar en el que desarrollé una intensa labor de comisariado de música electrónica, así como numerosas supervisiones de artistas y compositores en residencia.
 
 ## Formación académica
 
 - Soy guitarrista de formación (Título Superior de Guitarra por el Conservatorio Superior de Música de Madrid, 2006).
-- Tengo un máster en Sonología, realizado en el Instituto de Sonología (La Haya, 2009)
+- Tengo un máster en Sonología por el Instituto de Sonología (La Haya, 2009);
 - Y obtuve mi doctorado en el Music Technology Group de la Universidad Pompeu Fabra (2018) con una tesis sobre *sistemas tonales en música electrónica de baile*, un trabajo que pretendía aunar aspectos de musicología computacional con el desarrollo de herramientas creativas inteligentes.
 
 ## Enlaces

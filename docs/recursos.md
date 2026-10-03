@@ -22,7 +22,6 @@ plugdata trae dos fuentes de aprendizaje independientes, sin instalar nada más 
 |---|---|---|
 | [S1](sesiones/s1.md) · Lógica | `2.control.examples` 01–11, 17 | *Pd Quickstart* · *Intervals-Tuning* · *MIDI* |
 
-El detalle de qué abrir en cada fuente está al final de cada sesión.
 
 ## Bibliografía
 
