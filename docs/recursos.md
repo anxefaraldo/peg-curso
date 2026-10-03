@@ -17,7 +17,6 @@ plugdata trae dos fuentes de aprendizaje independientes, sin instalar nada más 
 - **La documentación de Pd** (`2.control.examples`, `3.audio.examples`…). Escrita por Miller Puckette, solo con objetos de vanilla y muy breve: cada ejemplo enseña una idea con lo mínimo. Acompaña a su libro, *The Theory and Technique of Electronic Music*.
 - **El *Live Electronics Tutorial* de Alexandre Porres** (`12.live-electronics-tutorial`, en inglés; también [en GitHub](https://github.com/porres/Live-Electronics-Tutorial)). Más amplio y más explicado: va de lo básico al procesado espectral. Se apoya en ELSE, la biblioteca del mismo autor que viene con plugdata, así que a menudo resuelve en un objeto lo que en clase construimos a mano. Úsalo para ver otra manera de hacerlo, después de haber entendido la nuestra.
 
-Cito el tutorial por el nombre de sus apartados, no por el número: la numeración cambia entre versiones.
 
 | Sesión | Documentación de Pd | Live Electronics Tutorial |
 |---|---|---|

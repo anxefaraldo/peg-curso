@@ -9,7 +9,7 @@
 
 ## Descripción
 
-Los entornos gráficos de programación de sonido y música (como Max o Pd) son una de las vías más efectivas para crear y transformar el sonido e integrarlo en la composición. En esta asignatura desmenuzaremos sus principios, y las estrategias para implementar técnicas de síntesis y transformación del sonido, para que cada alumna domine un entorno con el que desarrollar obra propia.
+Los entornos gráficos de programación de sonido y música (como Pd o Max) son una de las vías más efectivas para crear y transformar el sonido e integrarlo en la composición o interpretación. En esta asignatura desmenuzaremos sus principios, y las estrategias para implementar técnicas de síntesis y transformación del sonido, para que cada alumna domine un entorno con el que desarrollar obra propia.
 
 ## Objetivos
 
@@ -41,7 +41,7 @@ Pd y Max pertenecen a la misma familia de lenguajes; ambos parten del trabajo de
 
 ## Metodología
 
-Las sesiones son largas y espaciadas, así que cada una alterna distintos tipos de trabajo en lugar de concentrarse en la explicación:
+Las sesiones son largas y espaciadas, así que cada una alterna distintos tipos de trabajo:
 
 - **Defensa de encargos.** Algunas personas presentan y defienden el trabajo hecho entre sesiones.
 - **Recuperación de lo anterior.** Volvemos sobre la sesión previa antes de construir encima.
@@ -67,13 +67,13 @@ Además, se realizarán dos pruebas de nivel en el aula, de dos horas y sin cone
 
 El uso de herramientas de IA no está prohibido en esta asignatura. Pero lo que se evalúa es precisamente lo que la IA no puede hacer por ti:
 
-- predecir qué hará un patch antes de ejecutarlo;
-- encontrar y explicar un error;
-- defender tu propio trabajo en directo y modificarlo delante de la clase.
+- Predecir qué hará un patch antes de ejecutarlo.
+- Encontrar y explicar un error.
+- Defender tu propio trabajo en directo y modificarlo delante de la clase.
 
 Todo lo que entregues lo tendrás que explicar y modificar en clase. Si en tu patch hay un objeto o una conexión que no sabes explicar, todavía no es tuyo.
 
-Tampoco es un tema tabú. La IA puede ser una buena compañera de experimentación: probar variantes, abrir caminos que no se te habrían ocurrido. Pero la decisión estética es tuya. Lo que nos interesa es tu manera de pensar el sonido, no la respuesta más probable. Qué aportan estas herramientas, qué esconden y cómo se toca con ellas lo trabajaremos a fondo en Música Electrónica en Vivo.
+Tampoco es un tema tabú. La IA puede ser una buena compañera de experimentación: probar variantes, abrir caminos que no se te habrían ocurrido. Pero la decisión estética es tuya. Lo que nos interesa es tu manera de pensar el sonido, no la respuesta más probable. Qué aportan estas herramientas, qué esconden y cómo se toca con ellas lo trabajaremos en Música Electrónica en Vivo.
 
 ## Guía docente oficial
 
