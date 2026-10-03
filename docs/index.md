@@ -45,7 +45,7 @@ Las sesiones son largas y espaciadas, así que cada una alterna distintos tipos 
 
 - **Defensa de encargos.** Algunas personas presentan y defienden el trabajo hecho entre sesiones.
 - **Recuperación de lo anterior.** Volvemos sobre la sesión previa antes de construir encima.
-- **Construcción colectiva.** Los patches se construyen entre todos, en pantalla, y antes de ejecutar algo intentamos predecir qué va a pasar.
+- **Construcción colectiva.** Los patches se construyen entre todas, en pantalla, y antes de ejecutar algo intentamos predecir qué va a pasar.
 - **Escucha comentada.** Obras que plantean los problemas técnicos y estéticos de la sesión.
 - **Taller.** Cada alumna implementa, experimenta y compone con lo trabajado ese día.
 

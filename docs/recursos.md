@@ -5,7 +5,7 @@ Referencias para todo el curso. Las lecturas y materiales específicos de cada t
 ## Sitios de referencia
 
 - El sitio oficial de Pd es [puredata.info](https://puredata.info/), donde puedes descargar las últimas versiones y acceder a documentación, tutoriales, referencias y guías de programación. Merece la pena visitar las subpáginas [documentation](https://puredata.info/docs) y [tutorials](https://puredata.info/docs/tutorials).
-- Cuando te quedes atascade, puedes consultar el [Pure Data forum~](https://forum.pdpatchrepo.info/) y el [GitHub de Pure Data](https://github.com/pure-data).
+- Cuando te quedes atascada, puedes consultar el [Pure Data forum~](https://forum.pdpatchrepo.info/) y el [GitHub de Pure Data](https://github.com/pure-data).
 - Puedes encontrar todo tipo de patches en [Patchstorage](https://patchstorage.com/platform/pd-vanilla/).
 - La ayuda incluida (*Ayuda > Ayuda Pd*) contiene una introducción a Pd y a sus principios de programación. **Recomiendo especialmente leer su capítulo 2.**
 
