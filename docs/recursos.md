@@ -9,6 +9,9 @@ Referencias para todo el curso. Las lecturas y materiales específicos de cada t
 - Puedes encontrar todo tipo de patches en [Patchstorage](https://patchstorage.com/platform/pd-vanilla/).
 - La ayuda incluida (*Ayuda > Ayuda Pd*) contiene una introducción a Pd y a sus principios de programación. **Recomiendo especialmente leer su capítulo 2.**
 
+## Utilidades
+
+[Descarga las utilidades del curso (zip)](patches/peg-utilidades.zip). De momento, `grabadora~`: graba en wav lo que suena en Pd, en mono o estéreo y a 16, 24 o 32 bits. Úsala para las grabaciones de tus encargos.
 
 ## Para seguir por tu cuenta
 
