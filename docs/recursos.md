@@ -24,7 +24,7 @@ plugdata trae dos fuentes de aprendizaje independientes, sin instalar nada más 
 | Sesión | Documentación de Pd | Live Electronics Tutorial |
 |---|---|---|
 | [S1](sesiones/s1.md) · Lógica | `2.control.examples` 01–11, 17 | *Pd Quickstart* · *Intervals-Tuning* · *MIDI* |
-| S2 · MIDI y tiempo | `2.control.examples` 15–16, 18–19, 23–24 · `3.audio.examples` A01–A06, D01–D02, C01 | *Sequencing* · *clock.metronome* · *Oscillators* · *Lines* · *Envelopes* |
+| [S2](sesiones/s2.md) · MIDI y tiempo | `2.control.examples` 15–16, 18–19, 23–24 · `3.audio.examples` A01–A06, D01–D02, C01 | *Sequencing* · *clock.metronome* · *Oscillators* · *Lines* · *Envelopes* |
 
 
 ## Bibliografía

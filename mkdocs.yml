@@ -31,8 +31,10 @@ nav:
   - Inicio: index.md
   - Sesiones:
       - "S1 · Lógica de la programación gráfica": sesiones/s1.md
+      - "S2 · Teoría musical, procesado simbólico y MIDI": sesiones/s2.md
   - Encargos:
       - "E1 · Pieza de una voz": encargos/e1.md
+      - "E2 · Canon de velocidades": encargos/e2.md
   - Recursos: recursos.md
   - Sonidos de trabajo: sonidos.md
 extra_css:
